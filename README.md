@@ -4,7 +4,7 @@
 ### About
 -  **Learning :** Full-Stack Development :zap: | Open-Source :fire:    
 -  **Languages :** Java, Mysql,Vue
--  **Hobbies :** Animation:performing_arts: & Music :headphones:
+-  **Hobbies :** Animation:movie_camera: & Music :headphones:
 -  **Fact :** First solve the problem, then write the code :heart:
 -  **Contact me :** [Liang](mailto:shoukailiang@qq.com)
 ### Languages and Tools
