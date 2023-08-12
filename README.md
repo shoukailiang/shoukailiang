@@ -4,7 +4,7 @@ I'm ShouKailiang,a passionate self-taught frontend developer from China 🚀.
 
 ![shoukailiang's github stats](https://github-readme-stats.vercel.app/api?username=shoukailiang&show_icons=true&icon_color=fff&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shoukailiang&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ### About
--  **Learning :** Full-Stack Development :zap: | Open-Source :fire:    
+-  **Learning :** Front-Stack Development :zap: | Open-Source :fire:    
 -  **Languages :** React, Typescript ,Java
 -  **Hobbies :** Animation:movie_camera: & Music :headphones:
 -  **Fact :** First solve the problem, then write the code :heart:
